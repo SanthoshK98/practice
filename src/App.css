@@ -1,0 +1,28 @@
+.core{
+  text-decoration: none;
+  margin-left: '25px';
+
+}
+.pope{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+background-color: orange;
+color: white;
+border-radius: 3%;
+}
+
+.form{
+  padding: 10px;
+  border-radius: 50px;
+}
+
+.btn{
+  text-align: center;
+}
+.App{
+  text-align: center;
+}
+.register{
+  border: 1px solid black;
+}
